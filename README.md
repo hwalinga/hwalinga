@@ -2,7 +2,7 @@ Master student bioinformatics
 
 <a href="https://github.com/hwalinga">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hwalinga&show_icons=true&include_all_commits=true&count_private=true&custom_title=GitHub+Stats&theme=vue">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwalinga&layout=compact&theme=vue&hide=jupyter%20notebook&exclude_repo=crisprdetect-parser&langs_count=10">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwalinga&layout=compact&theme=vue&hide=jupyter%20notebook&exclude_repo=crisprdetect-parser&langs_count=6">
 </a>
 
 <!--
